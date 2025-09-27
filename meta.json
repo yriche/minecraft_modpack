@@ -3,20 +3,20 @@
     "hotfixesFormat": null,
     "versions": [
         {
-            "id": "1.1.0",
-            "releasedAt": 1759014205930,
-            "promotions": {
-                "downloads": {
-                    "generic": "https://drive.google.com/file/d/1EsIAQpDayZeSkhjioW6a8M8O3G2FjsYA/view?usp=sharing"
-                }
-            }
-        },
-        {
             "id": "1.0.0",
             "releasedAt": 1758976717544,
             "promotions": {
                 "downloads": {
                     "generic": "https://drive.google.com/file/d/1tejnKZY89ccA6QwiNqRNjrdy18mHceKA/view?usp=sharing"
+                }
+            }
+        },
+        {
+            "id": "1.1.0",
+            "releasedAt": 1759014205930,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://drive.google.com/file/d/1EsIAQpDayZeSkhjioW6a8M8O3G2FjsYA/view?usp=sharing"
                 }
             }
         }
