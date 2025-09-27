@@ -1,0 +1,11 @@
+Utility
+- Added Effect Insights
+
+Gameplay
+- Added Ecologics
+- Added Festive Delight
+
+Cosmetic
+- Added Animal Hats
+- Added Storage Delight
+- Added Display Delight
