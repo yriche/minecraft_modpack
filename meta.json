@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "1.0.0",
+            "releasedAt": 1758972284,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://example.com/"
+                }
+            }
+        }
+    ]
+}
